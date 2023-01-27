@@ -1,0 +1,17 @@
+{
+"short_name": "paginaxd",
+"name": "creando paginaxd",
+"icons":[
+    {
+        "src": "imgs/icono.png",
+        "sizes":"192x192",
+        "type": "imgs/png"
+    }
+],
+"start_url":"index.html",
+"backgraund_color":"#8904B1",
+"display": "standalone",
+"scope":"/",
+"theme_color":"#8904B1",
+"description": "ya quiero salir"
+}
